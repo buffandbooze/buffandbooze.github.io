@@ -1,17 +1,19 @@
-/*
-*******
-None of these variable are being imported anywhere, they're just here for your convenience.
-*******
-*/
-body { margin: 0; }
+body{
+	background-color: #F0DC82
+}
 
-/* Social Icons */
-body { background-color: #F0DC82; }
+h1{
+	font-family: 'Fjalla One';
+	color: #2e374a;
+	text-align: center
+}
 
-h1 { font-family: 'Fjalla One'; color: #2e374a; text-align: center; }
+h4{
+	font-family: 'Raleway';
+	color: #2e374a;
+	text-align: center
+}
 
-h3 { font-family: 'Raleway'; color: #2e374a; text-align: center; }
-
-img { display: block; margin-left: auto; margin-right: auto; padding-top: 2em; }
-
-.icon { width: 10%; height: auto; }
+img{
+	padding-left: 50%;
+}
